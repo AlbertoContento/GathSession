@@ -26,7 +26,7 @@ Bienvenido al proyecto **GathSession**, una web diseñada para eventos, activida
    ```
 2. Go Live o abre el archivo index.html en tu navegador preferido
 
-3. Puedes ver el proyecto en esta direccion de github pages: [https://albertocontento.github.io/Header-Spa-Beauty-CSS/](https://albertocontento.github.io/GathSession/)
+3. Puedes ver el proyecto en esta direccion de github pages: (https://albertocontento.github.io/GathSession/)
 
 💌 Contacto
 Si tienes alguna sugerencia o pregunta, no dudes en ponerte en contacto:
